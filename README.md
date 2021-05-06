@@ -14,3 +14,7 @@ Muy contento con este resultado, pero por ahora el castellano sigue teniendo un 
 Reduciendo el ratio de entrenamiento al 15% mejora mucho el castellano, llegando al 58%
 Creé nueva función para parsear el castellano, elimina caracteres innecesarios y deja el resto. No sabia usar bien regex así que queda algo feo
 Aumentó la precisión al 59-63%
+
+Después de realizar el entrenamiento con crossvalidation y k folds, ha mejorado la precisión de ambos idiomas hasta el 76%, muy contento con estos resutlados
+Hice el output en formato tsv tal y como se pedía en las guidelines.
+Doy por acabado el calsificador binario
